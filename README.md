@@ -17,7 +17,6 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 - Published researcher across IJRPETM, JRTCSE, ISCSITR-IJDE, IJCET, JARET, InfoWorld, and CIO
 - Author of eight open-source reference frameworks spanning AI data quality, pipelines, and lakehouse architecture
 - Speaker, Mentor, and Judge in the data engineering and AI community
-- Co-author with Sunil Gentyala (HCLTech) â€” Zero-Trust Data Pipelines (JRTCSE)
 
 ---
 
