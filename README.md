@@ -38,28 +38,6 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 
 ---
 
-### Selected Publications & Media
-
-[PyHadoopLake: A Python-Native Framework for Building Scalable Lakehouse Architectures on Hadoop](https://doi.org/10.15662/IJRPETM.2022.0505007) â€” IJRPETM, Vol. 5 Issue 5, Sepâ€“Oct 2022 (DOI: 10.15662/IJRPETM.2022.0505007)
-
-[AI Data Engineering Framework](https://jrtcse.com/index.php/home/article/view/JRTCSE.2025.13.1.12) â€” JRTCSE, Vol. 13, No. 1, 2025
-
-[Zero-Trust Data Pipelines](https://jrtcse.com/) â€” JRTCSE, co-authored with Sunil Gentyala (HCLTech)
-
-[Intelligent Data Engineering Framework](https://iscsitr.in/index.php/ISCSITR-IJDE/article/view/ISCSITR-IJDE_2025_06_01_01) â€” ISCSITR-IJDE, Vol. 1, Issue 1, 2025
-
-[Health Insurance Fraud Detection: The Role of Advanced IT Systems](https://iaeme.com/MasterAdmin/Journal_uploads/IJCET/VOLUME_16_ISSUE_1/IJCET_16_01_259.pdf) â€” IJCET, Vol. 16, No. 1, 2025
-
-[AI-Driven Enterprise Data Engineering: A Framework for Intelligent Data Pipelines](https://jaret.in/) â€” JARET, Vol. 2, Issue 1
-
-[AI-Augmented Data Quality Engineering](https://www.infoworld.com/article/4128925/ai-augmented-data-quality-engineering.html) â€” InfoWorld
-
-[A Data Trust Scoring Framework for Reliable and Responsible AI Systems](https://www.infoworld.com/article/4150077/a-data-trust-scoring-framework-for-reliable-and-responsible-ai-systems.html) â€” InfoWorld
-
-[Cognitive Data Architecture: Designing Self-Optimizing Frameworks for Scalable AI Systems](https://www.cio.com/) â€” CIO, December 2025
-
----
-
 ### Tech Stack
 
 **Data Engineering**
