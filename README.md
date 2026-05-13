@@ -22,8 +22,6 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 
 ### Open Source Frameworks
 
-[enterprise-data-pipeline-framework](https://github.com/Sunil-Kumar-Mudusu/enterprise-data-pipeline-framework): Three-layer lakehouse pipeline â€” declarative ETL, schema validation, quality scoring, lineage tracking, and audit logging [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/enterprise-data-pipeline-framework?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/enterprise-data-pipeline-framework)
-
 [ai-augmented-data-quality-engineering](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering): AI-augmented schema profiling, anomaly detection, drift detection, and quality rule recommendations [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering)
 
 [cognitive-data-architecture-framework](https://github.com/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework): Self-optimizing data architecture framework for scalable AI systems [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework)
