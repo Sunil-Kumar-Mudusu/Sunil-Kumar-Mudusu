@@ -22,9 +22,9 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 
 ### Open Source Frameworks
 
-[ai-augmented-data-quality-engineering](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering): AI-augmented schema profiling, anomaly detection, drift detection, and quality rule recommendations [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering)
-
 [cognitive-data-architecture-framework](https://github.com/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework): Self-optimizing data architecture framework for scalable AI systems [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/cognitive-data-architecture-framework)
+
+[ai-augmented-data-quality-engineering](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering): AI-augmented schema profiling, anomaly detection, drift detection, and quality rule recommendations [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/ai-augmented-data-quality-engineering)
 
 [data-trust-scoring-framework](https://github.com/Sunil-Kumar-Mudusu/data-trust-scoring-framework): Evaluates datasets for AI reliability, governance readiness, and responsible AI auditability [![Stars](https://img.shields.io/github/stars/Sunil-Kumar-Mudusu/data-trust-scoring-framework?style=flat&color=gold)](https://github.com/Sunil-Kumar-Mudusu/data-trust-scoring-framework)
 
