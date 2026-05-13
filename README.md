@@ -12,11 +12,14 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 
 ### Highlights
 
-- Lead AI Engineer and Data Engineer at Church Mutual Insurance, Austin, Texas
+- Lead AI & Data Engineer at Church Mutual Insurance, Austin, Texas
 - IEEE Senior Member
-- Published researcher across IEEE, ICETM 2026, IJRPETM, JRTCSE, ISCSITR-IJDE, IJCET, JARET, InfoWorld, and CIO
-- Author of eight open-source reference frameworks spanning AI data quality, pipelines, and lakehouse architecture
-- Speaker, Mentor, and Judge in the data engineering and AI community
+- Internationally published researcher across IEEE, ICETM 2026, IJRPETM, JRTCSE, ISCSITR-IJDE, IJCET, JARET, InfoWorld, and CIO
+- Author of multiple open-source enterprise reference frameworks spanning Cognitive Data Architecture, AI data quality, zero-trust pipelines, and lakehouse modernization
+- Recognized contributor in enterprise AI modernization, cloud-native architecture, and intelligent data engineering solutions
+- Speaker, Mentor, Peer Reviewer, and Judge within the global AI and Data Engineering community
+- Contributor to scalable AI and Data Engineering initiatives across healthcare, insurance, and enterprise technology domains
+- Specialist in enterprise AI platforms, governance-aware infrastructure, intelligent automation, and cloud-scale data systems
 
 ---
 
