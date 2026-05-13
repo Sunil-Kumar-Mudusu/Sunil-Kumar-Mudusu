@@ -6,7 +6,7 @@
 
 ---
 
-Sunil Kumar Mudusu is a Lead AI Engineer and Data Engineer at Church Mutual Insurance in Austin, Texas, specializing in real-time data pipelines, AI-augmented data quality, and intelligent data architecture for enterprise systems. His work bridges applied research and production engineering â€” designing frameworks that are declarative, observable, and auditable from ingestion through serving.
+Sunil Kumar Mudusu is a Lead AI Engineer and Data Engineer at Church Mutual Insurance in Austin, Texas, specializing in real-time data pipelines, AI-augmented data quality, and intelligent data architecture for enterprise systems. His work bridges applied research and production engineering - designing frameworks that are declarative, observable, and auditable from ingestion through serving.
 
 His research spans lakehouse architecture, AI-driven data quality, cognitive data systems, zero-trust data pipelines, fraud detection, and responsible AI governance. He is an IEEE Senior Member, published author across peer-reviewed journals and industry media, and an active speaker, mentor, and judge in the data engineering community.
 
