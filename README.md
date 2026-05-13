@@ -116,12 +116,6 @@ His research spans lakehouse architecture, AI-driven data quality, cognitive dat
 
 ---
 
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sunil-Kumar-Mudusu&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
 ### Memberships
 
 - IEEE Senior Member
